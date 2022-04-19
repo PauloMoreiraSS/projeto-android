@@ -150,10 +150,12 @@ aside ul {
     column-count: 2;
     list-style-type: "\2714\00A0\00A0";
     list-style-position: inside;
-    
 }
 aside a {
     background-color: var(--cor3);
+}
+aside abbr {
+    text-decoration: none;
 }
 
 footer {
