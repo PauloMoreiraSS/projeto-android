@@ -51,6 +51,7 @@ header p {
 }
 
 nav {
+    font-size: medium;
     background-color: var(--cor5);
     padding: 15px;
     box-shadow: var(--sombra-caixa);
